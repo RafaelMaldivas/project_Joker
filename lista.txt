@@ -1,0 +1,16 @@
+212405;Analista de sistemas
+212420;Analista de suporte computacional
+212430;Analista de testes de tecnologia da informação
+262505;Ator
+221105;Biólogo
+782505;Caminhoneiro
+262420;Desenhista industrial de produto
+262205;Diretor de cinema
+311405;Motorista
+311410;Técnico em química
+313215;Técnico eletrônico
+314110;Técnico mecânico
+351605;Programador 
+391135;Vendedor
+752320;Zootecnologo
+.
